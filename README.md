@@ -5,3 +5,5 @@
 - Program will be able to accept additional quotes into its database from the user
 - Program will be able to be scheduled for when the quote changes (like every 24 hours, every 10 minutes, etc)
 - Program will be able to function properly when Moodle updates.
+## Flowchart
+![alt text](https://github.com/bobprinceraj/MoodleQuoteBlock/blob/master/RandomQuoteFlowchart.png)
